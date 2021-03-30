@@ -1,6 +1,6 @@
 # Detect Intrude  
   
-Copyright (c) Jeremy Carter `<`jeremy@jeremycarter.ca`>`  
+Copyright (c) 2021 Jeremy Carter `<`jeremy@jeremycarter.ca`>`  
   
 ### A simple way to check if you maybe have some intruder in your system(s)  
   
